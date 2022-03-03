@@ -1,0 +1,6 @@
+[submodule "backend-express-template"]
+	path = backend-express-template
+	url = https://github.com/stack-spot/backend-express-template
+[submodule "backend-express-beagle-plugin"]
+	path = backend-express-beagle-plugin
+	url = https://github.com/stack-spot/backend-express-beagle-plugin
